@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aad09486-8243-4854-8ce4-9fb97a5c7e4e" name="Changes" comment=":bug: fix router navigation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/manage-order" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1685677770" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/manage-order" />
+                    <option name="lastUsedInstant" value="1685526854" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/site-merchant" />
+                    <option name="lastUsedInstant" value="1684837658" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/service-price" />
+                    <option name="lastUsedInstant" value="1684486062" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="ui/register-site" />
+                    <option name="lastUsedInstant" value="1684400925" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2PoGD9bUd8kU6vdmXxZBAJi2mxe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\MERN\\admin-media\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Northstudio\dashboard-sabomo\src\content" />
+      <recent name="E:\Northstudio\dashboard-sabomo\pages\app\system-admin\manage" />
+      <recent name="E:\Northstudio\dashboard-sabomo\pages\app\admin\manage" />
+      <recent name="E:\Northstudio\dashboard-sabomo\src\content\Order" />
+      <recent name="E:\Northstudio\dashboard-sabomo\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad09486-8243-4854-8ce4-9fb97a5c7e4e" name="Changes" comment="" />
+      <created>1684115900131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684115900131</updated>
+      <workItem from="1684115904284" duration="8238000" />
+      <workItem from="1684133893590" duration="6753000" />
+      <workItem from="1684149865933" duration="575000" />
+      <workItem from="1684203093613" duration="467000" />
+      <workItem from="1684203694483" duration="7105000" />
+      <workItem from="1684219196469" duration="9903000" />
+      <workItem from="1684229825834" duration="2052000" />
+      <workItem from="1684245083656" duration="158000" />
+      <workItem from="1684248140649" duration="700000" />
+      <workItem from="1684288484581" duration="9108000" />
+      <workItem from="1684306455491" duration="12325000" />
+      <workItem from="1684375374115" duration="8517000" />
+      <workItem from="1684392653869" duration="11301000" />
+      <workItem from="1684461093883" duration="10268000" />
+      <workItem from="1684479636822" duration="211000" />
+      <workItem from="1684479877300" duration="10606000" />
+      <workItem from="1684499549012" duration="158000" />
+      <workItem from="1684720826684" duration="9181000" />
+      <workItem from="1684738700471" duration="11417000" />
+      <workItem from="1684763652179" duration="4000" />
+      <workItem from="1684806606340" duration="9774000" />
+      <workItem from="1684825268117" duration="11531000" />
+      <workItem from="1684893233644" duration="10066000" />
+      <workItem from="1684911790222" duration="11887000" />
+      <workItem from="1684938820837" duration="4602000" />
+      <workItem from="1684979947263" duration="9175000" />
+      <workItem from="1684997036969" duration="3241000" />
+      <workItem from="1685000423640" duration="5333000" />
+      <workItem from="1685066140223" duration="9634000" />
+      <workItem from="1685084084287" duration="11957000" />
+      <workItem from="1685108658560" duration="10000" />
+      <workItem from="1685153154310" duration="1113000" />
+      <workItem from="1685154327694" duration="7638000" />
+      <workItem from="1685170269958" duration="13011000" />
+      <workItem from="1685203187077" duration="2542000" />
+      <workItem from="1685251260023" duration="11000" />
+      <workItem from="1685295723536" duration="2229000" />
+      <workItem from="1685325079493" duration="8808000" />
+      <workItem from="1685343368706" duration="1655000" />
+      <workItem from="1685349865197" duration="1203000" />
+      <workItem from="1685351125287" duration="4786000" />
+      <workItem from="1685411364867" duration="8930000" />
+      <workItem from="1685430182188" duration="11601000" />
+      <workItem from="1685497766539" duration="9940000" />
+      <workItem from="1685515733836" duration="13217000" />
+      <workItem from="1685583552747" duration="9651000" />
+      <workItem from="1685602869916" duration="11635000" />
+      <workItem from="1685625101197" duration="3473000" />
+      <workItem from="1685637449757" duration="1294000" />
+      <workItem from="1685670512841" duration="7937000" />
+      <workItem from="1685688729518" duration="1116000" />
+      <workItem from="1685693243056" duration="5859000" />
+      <workItem from="1685928481057" duration="196000" />
+      <workItem from="1685932548538" duration="5806000" />
+      <workItem from="1685949074229" duration="255000" />
+      <workItem from="1685949765983" duration="260000" />
+      <workItem from="1686020981951" duration="3665000" />
+      <workItem from="1686034032023" duration="3770000" />
+      <workItem from="1686040461142" duration="142000" />
+      <workItem from="1686040641495" duration="592000" />
+      <workItem from="1686059828852" duration="13206000" />
+      <workItem from="1686121531703" duration="594000" />
+      <workItem from="1686247502797" duration="1472000" />
+      <workItem from="1686293886184" duration="118000" />
+      <workItem from="1686358526046" duration="2788000" />
+    </task>
+    <task id="LOCAL-00015" summary=":lipstick:  handle order item">
+      <created>1684808922743</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684808922743</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":bug: fix update action cart">
+      <created>1684825550601</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684825550601</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":truck: move folder site-agency">
+      <created>1684827479735</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684827479735</updated>
+    </task>
+    <task id="LOCAL-00018" summary=":necktie: set empty selected cart after order">
+      <created>1684827598561</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684827598561</updated>
+    </task>
+    <task id="LOCAL-00019" summary=":alien: handle register site">
+      <created>1684834711804</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684834711804</updated>
+    </task>
+    <task id="LOCAL-00020" summary=":alien: update selected theme">
+      <created>1684837633953</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684837633953</updated>
+    </task>
+    <task id="LOCAL-00021" summary=":lipstick: update ui show product site">
+      <created>1684941512502</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684941512502</updated>
+    </task>
+    <task id="LOCAL-00022" summary=":lipstick: handle toggle theme">
+      <created>1684942927706</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684942927706</updated>
+    </task>
+    <task id="LOCAL-00023" summary=":lipstick: handle delete product cart">
+      <created>1684998643185</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684998643186</updated>
+    </task>
+    <task id="LOCAL-00024" summary=":lipstick: update light theme">
+      <created>1684998664553</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684998664553</updated>
+    </task>
+    <task id="LOCAL-00025" summary=":lipstick: update ui price tag in product site">
+      <created>1684999721291</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684999721291</updated>
+    </task>
+    <task id="LOCAL-00026" summary=":lipstick: handle delete product cart">
+      <created>1685003832761</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685003832761</updated>
+    </task>
+    <task id="LOCAL-00027" summary=":lipstick: handle delete product cart">
+      <created>1685005237462</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1685005237462</updated>
+    </task>
+    <task id="LOCAL-00028" summary=":lipstick: change manage theme provider to redux">
+      <created>1685071712844</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685071712845</updated>
+    </task>
+    <task id="LOCAL-00029" summary=":lipstick: handle reset password">
+      <created>1685075363554</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685075363554</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update gitignore">
+      <created>1685075424295</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1685075424295</updated>
+    </task>
+    <task id="LOCAL-00031" summary=":lipstick: update ui profile box">
+      <created>1685085646775</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1685085646775</updated>
+    </task>
+    <task id="LOCAL-00032" summary=":lipstick: add global style remove arrow type number">
+      <created>1685088506607</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1685088506607</updated>
+    </task>
+    <task id="LOCAL-00033" summary=":truck: rename types folder">
+      <created>1685095521986</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1685095521986</updated>
+    </task>
+    <task id="LOCAL-00034" summary=":truck: handle manage state sites">
+      <created>1685095551007</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1685095551007</updated>
+    </task>
+    <task id="LOCAL-00035" summary=":lipstick: create ui system admin">
+      <created>1685153984536</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1685153984536</updated>
+    </task>
+    <task id="LOCAL-00036" summary=":lipstick: handle delete specific site">
+      <created>1685158829897</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1685158829897</updated>
+    </task>
+    <task id="LOCAL-00037" summary=":sparkles: handle delete and update site">
+      <created>1685178920896</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685178920896</updated>
+    </task>
+    <task id="LOCAL-00038" summary=":sparkles: handle manage state redux account">
+      <created>1685206150839</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685206150839</updated>
+    </task>
+    <task id="LOCAL-00039" summary=":sparkles: handle redirect in home page">
+      <created>1685326896252</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685326896252</updated>
+    </task>
+    <task id="LOCAL-00040" summary=":sparkles: handle manage account">
+      <created>1685354601575</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1685354601575</updated>
+    </task>
+    <task id="LOCAL-00041" summary=":sparkles: handle update ui account">
+      <created>1685411796591</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1685411796591</updated>
+    </task>
+    <task id="LOCAL-00042" summary=":sparkles: handle manage state orders">
+      <created>1685416207844</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1685416207844</updated>
+    </task>
+    <task id="LOCAL-00043" summary=":lipstick: add display order">
+      <created>1685437058739</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1685437058739</updated>
+    </task>
+    <task id="LOCAL-00044" summary=":sparkles: handle manage order">
+      <created>1685501589542</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1685501589542</updated>
+    </task>
+    <task id="LOCAL-00045" summary=":sparkles: update order status">
+      <created>1685504830317</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1685504830317</updated>
+    </task>
+    <task id="LOCAL-00046" summary=":sparkles: add ui product detail">
+      <created>1685516925114</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1685516925114</updated>
+    </task>
+    <task id="LOCAL-00047" summary=":sparkles: update ui product">
+      <created>1685526801317</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1685526801317</updated>
+    </task>
+    <task id="LOCAL-00048" summary=":sparkles: handle quick search on header">
+      <created>1685594072177</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1685594072177</updated>
+    </task>
+    <task id="LOCAL-00049" summary=":sparkles: add login banner img">
+      <created>1685594127551</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1685594127551</updated>
+    </task>
+    <task id="LOCAL-00050" summary=":lipstick: update title web">
+      <created>1685605141322</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1685605141322</updated>
+    </task>
+    <task id="LOCAL-00051" summary=":lipstick: update performance searching header">
+      <created>1685608491130</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685608491130</updated>
+    </task>
+    <task id="LOCAL-00052" summary=":lipstick: rename sidebar navigation">
+      <created>1685608522719</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1685608522719</updated>
+    </task>
+    <task id="LOCAL-00053" summary=":lipstick: update ui service price">
+      <created>1685609427265</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685609427265</updated>
+    </task>
+    <task id="LOCAL-00054" summary=":sparkles: handle quick search product in header and update ui product">
+      <created>1685628349898</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1685628349898</updated>
+    </task>
+    <task id="LOCAL-00055" summary=":sparkles: handle paginate product site page">
+      <created>1685673678373</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1685673678373</updated>
+    </task>
+    <task id="LOCAL-00056" summary=":lipstick: update ui register site">
+      <created>1685676632165</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1685676632165</updated>
+    </task>
+    <task id="LOCAL-00057" summary=":lipstick: update ui manage table">
+      <created>1685677593441</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1685677593441</updated>
+    </task>
+    <task id="LOCAL-00058" summary=":lipstick: update ui manage">
+      <created>1685701142897</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1685701142898</updated>
+    </task>
+    <task id="LOCAL-00059" summary=":lipstick: update edit site">
+      <created>1685936092123</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1685936092123</updated>
+    </task>
+    <task id="LOCAL-00060" summary=":lipstick: update render account's site">
+      <created>1685936743699</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1685936743699</updated>
+    </task>
+    <task id="LOCAL-00061" summary=":lipstick: update handle search product">
+      <created>1685937357924</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1685937357924</updated>
+    </task>
+    <task id="LOCAL-00062" summary=":lipstick: add note in cart page">
+      <created>1685949151038</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1685949151039</updated>
+    </task>
+    <task id="LOCAL-00063" summary=":bug: fix router navigation">
+      <created>1685949325284</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1685949325284</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":sparkles: handle manage account" />
+    <MESSAGE value=":sparkles: handle update ui account" />
+    <MESSAGE value=":sparkles: handle manage state orders" />
+    <MESSAGE value=":lipstick: add display order" />
+    <MESSAGE value=":sparkles: handle create customer order" />
+    <MESSAGE value=":sparkles: handle manage order" />
+    <MESSAGE value=":sparkles: update order status" />
+    <MESSAGE value=":sparkles: add ui product detail" />
+    <MESSAGE value=":sparkles: update ui product" />
+    <MESSAGE value=":sparkles: handle quick search on header" />
+    <MESSAGE value=":sparkles: add login banner img" />
+    <MESSAGE value=":lipstick: update title web" />
+    <MESSAGE value=":lipstick: update performance searching header" />
+    <MESSAGE value=":lipstick: rename sidebar navigation" />
+    <MESSAGE value=":lipstick: update ui service price" />
+    <MESSAGE value=":sparkles: handle quick search product in header and update ui product" />
+    <MESSAGE value=":sparkles: handle paginate product site page" />
+    <MESSAGE value=":lipstick: update ui register site" />
+    <MESSAGE value=":lipstick: update ui manage table" />
+    <MESSAGE value=":lipstick: update ui manage" />
+    <MESSAGE value=":lipstick: update edit site" />
+    <MESSAGE value=":lipstick: update render account's site" />
+    <MESSAGE value=":lipstick: update handle search product" />
+    <MESSAGE value=":lipstick: add note in cart page" />
+    <MESSAGE value=":bug: fix router navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value=":bug: fix router navigation" />
+  </component>
+</project>
